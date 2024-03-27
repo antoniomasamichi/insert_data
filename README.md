@@ -29,10 +29,10 @@ blue
 template text file
 place holder is like $1
 ex.
-<div>
+<aa>
 <title>$1</title>
-<p>$2</p>
-</div>
+<xx>$2</xx>
+</aa>
 
 ### --row -r
 you have to teach program "how many rows is chunk of data".
@@ -44,11 +44,14 @@ stands for 2 rows are chunk of data.(apple,banana)
 text file
 ex.
 
+<aa>
 <title>apple</title>
-<h1>banana</h1>
+<xx>banana</xx>
+</aa>
+<aa>
 <title>green</title>
-<h1>blue</h1>
-
+<xx>blue</xx>
+</aa>
 
 ## Author
 masamichi

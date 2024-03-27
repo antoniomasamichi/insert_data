@@ -44,14 +44,10 @@ stands for 2 rows are chunk of data.(apple,banana)
 text file
 ex.
 
-<div>
 <title>apple</title>
-<p>banana</p>
-</div>
-<div>
+<h1>banana</h1>
 <title>green</title>
-<p>blue</p>
-</div>
+<h1>blue</h1>
 
 
 ## Author
